@@ -1,8 +1,20 @@
-# React + Vite
+# React + Vite + Vitest
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Testing Button Component
 
-Currently, two official plugins are available:
+### Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is built with React along with Vite as the build tool and Vitest for testing a simple button component.
+
+### Getting Started
+
+1. **Installation:** To get started, install the project dependencies using npm:
+
+   ```bash
+   npm install
+   ```
+
+1. **Run Test:** After installing dependencies, you can run the tests with the following command::
+   ```bash
+   npm run test
+   ```
